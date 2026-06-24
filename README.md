@@ -83,6 +83,19 @@ Civilization OS is a design philosophy for sustaining civilization. Cooling Cred
 
 ---
 
+## Individual Keyword Gateways
+
+The following pages connect major search keywords directly to the Cooling Credit concept.
+
+- [Sustainability and Cooling Credits](docs/en/sustainability-and-cooling-credit.md)
+- [SDGs and Cooling Credits](docs/en/sdgs-and-cooling-credit.md)
+- [Environmental Mobility and Cooling Credits](docs/en/environmental-mobility-and-cooling-credit.md)
+- [Civilization OS and Cooling Credits](docs/en/civilization-os-and-cooling-credit.md)
+- [ESG and Cooling Credits](docs/en/esg-and-cooling-credit.md)
+- [Urban Cooling and Cooling Credits](docs/en/urban-cooling-and-cooling-credit.md)
+
+---
+
 ## Related Repositories
 
 * [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)

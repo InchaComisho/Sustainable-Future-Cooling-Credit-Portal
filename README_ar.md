@@ -60,6 +60,19 @@ ESG
 
 ---
 
+## بوابات الكلمات المفتاحية الفردية
+
+تربط الصفحات التالية الكلمات المفتاحية الرئيسية مباشرة بمفهوم أرصدة التبريد.
+
+- [الاستدامة وأرصدة التبريد](docs/ar/sustainability-and-cooling-credit.md)
+- [أهداف التنمية المستدامة وأرصدة التبريد](docs/ar/sdgs-and-cooling-credit.md)
+- [التنقل البيئي وأرصدة التبريد](docs/ar/environmental-mobility-and-cooling-credit.md)
+- [نظام الحضارة وأرصدة التبريد](docs/ar/civilization-os-and-cooling-credit.md)
+- [ESG وأرصدة التبريد](docs/ar/esg-and-cooling-credit.md)
+- [تبريد المدن وأرصدة التبريد](docs/ar/urban-cooling-and-cooling-credit.md)
+
+---
+
 ## مستودعات ذات صلة
 
 - [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
