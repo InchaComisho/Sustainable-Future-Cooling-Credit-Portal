@@ -117,6 +117,16 @@ The following pages connect major search keywords directly to the Cooling Credit
 
 ---
 
+## Seasonal Cooling Strategy Simulation
+
+[Seasonal Cooling Strategy Simulation](https://github.com/InchaComisho/Cooling-Credit-Framework/tree/main/simulations/high_humidity_cooling_credit_simulation)
+
+A pre-verification simulation comparing mist evaporative cooling, dehumidification-based WBGT reduction, and rainwater-humus-soil moisture cooling across four climate scenarios: Japan rainy season, Japan midsummer, dry hot region, and humid tropical city.
+
+The simulation quantifies Composite Cooling Scores for each model and scenario combination, providing a foundation for Cooling Credit valuation in high-humidity and seasonal environments.
+
+---
+
 ## Author
 
 Master / inchacomusho / InchaComisho
