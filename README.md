@@ -117,6 +117,9 @@ The following pages connect major search keywords directly to the Cooling Credit
 
 ---
 
+- [El Niño Warning and Cooling Credit](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit)
+  A climate-warning gateway connecting El Niño, ocean heat accumulation, marine heat waves, ecosystem risks, thermal accounting, and Cooling Credits.
+
 ## Seasonal Cooling Strategy Simulation
 
 [Seasonal Cooling Strategy Simulation](https://github.com/InchaComisho/Cooling-Credit-Framework/tree/main/simulations/high_humidity_cooling_credit_simulation)

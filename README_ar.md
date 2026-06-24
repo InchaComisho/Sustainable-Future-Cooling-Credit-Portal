@@ -91,6 +91,8 @@ ESG
 - [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
 - [Carbon Credit Limitations and Cooling Credit](https://github.com/InchaComisho/carbon-credit-limitations-cooling-credit)
   يوضح الحدود البنيوية لأرصدة الكربون ولماذا تحتاج نتائج التبريد القابلة للقياس إلى إطار أرصدة التبريد.
+- [تحذير النينيو وأرصدة التبريد](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit/blob/main/README_ar.md)
+  بوابة تحذير مناخية تربط بين النينيو، وتراكم حرارة المحيط، وموجات الحر البحرية، ومخاطر النظم البيئية، والمحاسبة الحرارية، وأرصدة التبريد.
 
 ---
 
