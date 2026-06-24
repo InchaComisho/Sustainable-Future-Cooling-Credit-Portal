@@ -70,6 +70,14 @@ ESG
 - [نظام الحضارة وأرصدة التبريد](docs/ar/civilization-os-and-cooling-credit.md)
 - [ESG وأرصدة التبريد](docs/ar/esg-and-cooling-credit.md)
 - [تبريد المدن وأرصدة التبريد](docs/ar/urban-cooling-and-cooling-credit.md)
+- [التكيف المناخي وأرصدة التبريد](docs/ar/climate-adaptation-and-cooling-credit.md)
+- [المرونة المناخية وأرصدة التبريد](docs/ar/climate-resilience-and-cooling-credit.md)
+- [البنية التحتية الخضراء وأرصدة التبريد](docs/ar/green-infrastructure-and-cooling-credit.md)
+- [حلول قائمة على الطبيعة وأرصدة التبريد](docs/ar/nature-based-solutions-and-cooling-credit.md)
+- [الاقتصاد الدائري وأرصدة التبريد](docs/ar/circular-economy-and-cooling-credit.md)
+- [استعادة دورة الماء وأرصدة التبريد](docs/ar/water-cycle-restoration-and-cooling-credit.md)
+- [الزراعة التجددية وأرصدة التبريد](docs/ar/regenerative-agriculture-and-cooling-credit.md)
+- [استعادة المحيطات وأرصدة التبريد](docs/ar/ocean-restoration-and-cooling-credit.md)
 
 ---
 

@@ -70,6 +70,8 @@ Green infrastructure uses natural functions as social infrastructure.
 
 Cooling Credits can measure and value the cooling effects of greenery, rainwater, soil, forests, waterfronts, and ocean circulation.
 
+See also: [Green Infrastructure and Cooling Credits](green-infrastructure-and-cooling-credit.md)
+
 ---
 
 ## Climate Adaptation × Cooling Credits
@@ -77,6 +79,8 @@ Cooling Credits can measure and value the cooling effects of greenery, rainwater
 Climate adaptation means reducing damage from climate change already in progress.
 
 Cooling Credits evaluate adaptation actions through measurable cooling effects, including heatwave reduction, urban cooling, wildfire-risk reduction, drought mitigation, and marine heatwave response.
+
+See also: [Climate Adaptation and Cooling Credits](climate-adaptation-and-cooling-credit.md)
 
 ---
 
@@ -86,6 +90,8 @@ Climate resilience means the ability to withstand and recover from climate-relat
 
 Cooling Credits can strengthen climate resilience by reducing heat loads, restoring water cycles, and regenerating soils and forests.
 
+See also: [Climate Resilience and Cooling Credits](climate-resilience-and-cooling-credit.md)
+
 ---
 
 ## Nature-Based Solutions × Cooling Credits
@@ -93,6 +99,8 @@ Cooling Credits can strengthen climate resilience by reducing heat loads, restor
 Nature-based solutions use natural systems to solve social and environmental problems.
 
 Cooling Credits value nature-based cooling functions such as evapotranspiration, soil moisture, shade, water retention, and ecosystem recovery.
+
+See also: [Nature-Based Solutions and Cooling Credits](nature-based-solutions-and-cooling-credit.md)
 
 ---
 
@@ -118,6 +126,8 @@ A circular economy keeps resources circulating instead of becoming waste.
 
 Cooling Credits connect food loss and organic waste to humus production, soil moisture recovery, microbial activity, carbon fixation, and surface cooling.
 
+See also: [Circular Economy and Cooling Credits](circular-economy-and-cooling-credit.md)
+
 ---
 
 ## Water-Cycle Restoration × Cooling Credits
@@ -125,6 +135,8 @@ Cooling Credits connect food loss and organic waste to humus production, soil mo
 Water-cycle restoration is central to planetary cooling.
 
 Cooling Credits can evaluate rainwater storage, reclaimed-water use, soil infiltration, evaporation, evapotranspiration, cloud-process potential, and rainfall-cycle recovery.
+
+See also: [Water-Cycle Restoration and Cooling Credits](water-cycle-restoration-and-cooling-credit.md)
 
 ---
 
@@ -142,6 +154,8 @@ Regenerative agriculture restores soil and ecosystem functions.
 
 Cooling Credits can evaluate soil moisture, humus production, organic-matter circulation, microbial recovery, and reduced crop heat stress.
 
+See also: [Regenerative Agriculture and Cooling Credits](regenerative-agriculture-and-cooling-credit.md)
+
 ---
 
 ## Ocean Restoration × Cooling Credits
@@ -149,6 +163,8 @@ Cooling Credits can evaluate soil moisture, humus production, organic-matter cir
 Ocean restoration supports circulation, oxygen supply, seaweed beds, fisheries, and plankton functions.
 
 Cooling Credits can evaluate ocean circulation support, OBS, OTU, fishery recovery, and marine cooling support.
+
+See also: [Ocean Restoration and Cooling Credits](ocean-restoration-and-cooling-credit.md)
 
 ---
 

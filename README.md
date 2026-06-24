@@ -93,6 +93,14 @@ The following pages connect major search keywords directly to the Cooling Credit
 - [Civilization OS and Cooling Credits](docs/en/civilization-os-and-cooling-credit.md)
 - [ESG and Cooling Credits](docs/en/esg-and-cooling-credit.md)
 - [Urban Cooling and Cooling Credits](docs/en/urban-cooling-and-cooling-credit.md)
+- [Climate Adaptation and Cooling Credits](docs/en/climate-adaptation-and-cooling-credit.md)
+- [Climate Resilience and Cooling Credits](docs/en/climate-resilience-and-cooling-credit.md)
+- [Green Infrastructure and Cooling Credits](docs/en/green-infrastructure-and-cooling-credit.md)
+- [Nature-Based Solutions and Cooling Credits](docs/en/nature-based-solutions-and-cooling-credit.md)
+- [Circular Economy and Cooling Credits](docs/en/circular-economy-and-cooling-credit.md)
+- [Water-Cycle Restoration and Cooling Credits](docs/en/water-cycle-restoration-and-cooling-credit.md)
+- [Regenerative Agriculture and Cooling Credits](docs/en/regenerative-agriculture-and-cooling-credit.md)
+- [Ocean Restoration and Cooling Credits](docs/en/ocean-restoration-and-cooling-credit.md)
 
 ---
 
