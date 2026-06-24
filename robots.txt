@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://inchacomisho.github.io/Sustainable-Future-Cooling-Credit-Portal/sitemap.xml
