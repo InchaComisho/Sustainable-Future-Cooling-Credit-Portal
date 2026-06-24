@@ -112,6 +112,8 @@ The following pages connect major search keywords directly to the Cooling Credit
 * [Carbon Credit to Cooling Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit)
 * [Civilization OS Framework](https://github.com/InchaComisho/Civilization-OS-Framework)
 * [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+- [Carbon Credit Limitations and Cooling Credit](https://github.com/InchaComisho/carbon-credit-limitations-cooling-credit)
+  Explains the structural limits of carbon credits and why measurable cooling outcomes require a Cooling Credit framework.
 
 ---
 
