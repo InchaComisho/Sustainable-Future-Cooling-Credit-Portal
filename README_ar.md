@@ -114,3 +114,8 @@ ESG
 Master / inchacomusho / InchaComisho
 
 دعم البنية والتوثيق: G (ChatGPT)
+
+## Related Links
+
+- [الكوارث المناخية وإعادة توزيع الحرارة وأرصدة التبريد](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit/blob/main/README_ar.md)
+  يشرح الكوارث المناخية بوصفها إعادة توزيع مثقلة للحرارة وبخار الماء، ويربط الوقاية من الكوارث بالمحاسبة الحرارية وأرصدة التبريد.

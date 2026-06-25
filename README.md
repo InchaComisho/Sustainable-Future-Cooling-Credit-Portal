@@ -106,6 +106,9 @@ The following pages connect major search keywords directly to the Cooling Credit
 
 ## Related Repositories
 
+- [Climate Disasters as Heat Redistribution and Cooling Credit](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit)
+  Explains climate disasters as overloaded heat and water-vapor redistribution, and connects disaster prevention to thermal accounting and Cooling Credits.
+
 * [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
 * [Direct Planetary Cooling](https://github.com/InchaComisho/Direct-Planetary-Cooling)
 * [Cooling Credit Implementation Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio)
