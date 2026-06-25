@@ -138,6 +138,12 @@ The following pages connect major search keywords directly to the Cooling Credit
 - [Japanese NOTE article: El Niño Warning and Cooling Credit](https://note.com/inchacomusho/n/n3426a35cb2a2)
   A public-facing Japanese article connecting El Niño, ocean heat accumulation, marine heat waves, ecosystem risks, thermal accounting, and Cooling Credits.
 
+### Global Warming Causal Structure and Cooling Credit
+
+- [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
+
+
+
 ## Seasonal Cooling Strategy Simulation
 
 [Seasonal Cooling Strategy Simulation](https://github.com/InchaComisho/Cooling-Credit-Framework/tree/main/simulations/high_humidity_cooling_credit_simulation)

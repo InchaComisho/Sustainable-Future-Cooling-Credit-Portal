@@ -111,6 +111,12 @@ ESG
 
 ---
 
+### البنية السببية للاحترار العالمي وأرصدة التبريد
+
+- [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
+
+
+
 ## محاكاة استراتيجية التبريد الموسمية
 
 [محاكاة استراتيجية التبريد الموسمية](https://github.com/InchaComisho/Cooling-Credit-Framework/tree/main/simulations/high_humidity_cooling_credit_simulation)
