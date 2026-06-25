@@ -110,6 +110,8 @@ The following pages connect major search keywords directly to the Cooling Credit
   Explains climate disasters as overloaded heat and water-vapor redistribution, and connects disaster prevention to thermal accounting and Cooling Credits.
 
 * [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
+- [Organic Matter Circulation for Soil Recovery and Desert Greening Cooling Credit Model](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/ORGANIC_MATTER_SOIL_RECOVERY_AND_DESERT_GREENING_COOLING_CREDIT_MODEL.md)
+  A business model connecting organic waste humus conversion, farmland soil recovery, dryland restoration, desert-edge greening, and Cooling Credit evaluation.
 * [Direct Planetary Cooling](https://github.com/InchaComisho/Direct-Planetary-Cooling)
 * [Cooling Credit Implementation Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio)
 * [Carbon Credit to Cooling Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit)

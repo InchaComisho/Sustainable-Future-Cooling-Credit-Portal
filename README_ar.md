@@ -84,6 +84,8 @@ ESG
 ## مستودعات ذات صلة
 
 - [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
+- [نموذج ائتمان التبريد لدورة المادة العضوية من أجل استعادة التربة وتخضير المناطق الجافة](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/ORGANIC_MATTER_SOIL_RECOVERY_AND_DESERT_GREENING_COOLING_CREDIT_MODEL_ar.md)
+  نموذج أعمال يربط تحويل المخلفات العضوية إلى مادة عضوية للتربة، واستعادة الأراضي الزراعية، واستصلاح المناطق الجافة، وتخضير حواف الصحارى، وتقييم مساهمة التبريد ضمن إطار أرصدة التبريد.
 - [Direct Planetary Cooling](https://github.com/InchaComisho/Direct-Planetary-Cooling)
 - [Cooling Credit Implementation Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio)
 - [Carbon Credit to Cooling Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit)
