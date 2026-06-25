@@ -131,3 +131,13 @@ Master / inchacomusho / InchaComisho
 
 - [الكوارث المناخية وإعادة توزيع الحرارة وأرصدة التبريد](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit/blob/main/README_ar.md)
   يشرح الكوارث المناخية بوصفها إعادة توزيع مثقلة للحرارة وبخار الماء، ويربط الوقاية من الكوارث بالمحاسبة الحرارية وأرصدة التبريد.
+
+---
+
+### البنية السببية للاحترار العالمي
+
+- [Global Warming Causal Structure](https://github.com/InchaComisho/Global-Warming-Causal-Structure)
+- [بوابة GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
+- [مقال NOTE](https://note.com/inchacomusho/n/n5b2102ffc1c2)
+
+نموذج سببي قائم على الأنظمة يشرح الاحترار العالمي كأزمة مركبة لا تتعلق بزيادة CO₂ فقط، بل تشمل أيضًا ضعف وفقدان وظائف التبريد الطبيعية للأرض، مثل الغابات، والنتح، وميكروبات التربة، ودورة الماء، والعوالق النباتية، ودوران المحيط والغلاف الجوي.
