@@ -10,6 +10,35 @@
 
 ---
 
+## 注目シミュレーション：カーボンクレジットからクーリングクレジットへの移行
+
+> *カーボンクレジットからクーリングクレジットが実現した場合、何が変わっていたか？*
+
+カーボンクレジット中心の気候資金経路と、同規模またはより大きな投資規模のクーリングクレジット経路を比較するシミュレーションです。自然冷却機能回復、熱負荷低減、地球温暖化緩和、エルニーニョ関連の熱リスク増幅の潜在的緩和への効果を検討します。
+
+| シナリオ | 説明 |
+|---|---|
+| A | カーボンクレジット基準：資金が炭素会計へ流れる |
+| B | 等規模クーリングクレジット：同規模の資金を物理的冷却へ転換 |
+| C | 大規模クーリングクレジット：追加のESG・保険・適応資金を引き寄せる |
+| D | ハイブリッド：排出用カーボンクレジット＋第二層のクーリングクレジット |
+
+<p align="center">
+  <img src="simulations/carbon_credit_to_cooling_credit_transition_simulation/outputs/heat_load_reduction_pathways.png" alt="熱負荷低減経路" width="100%">
+</p>
+
+<p align="center">
+  <img src="simulations/carbon_credit_to_cooling_credit_transition_simulation/outputs/natural_cooling_recovery_index.png" alt="自然冷却機能回復インデックス" width="100%">
+</p>
+
+<p align="center">
+  <img src="simulations/carbon_credit_to_cooling_credit_transition_simulation/outputs/carbon_credit_vs_cooling_credit_funding.png" alt="カーボンクレジット対クーリングクレジット資金" width="100%">
+</p>
+
+**→ [シミュレーションモジュール全体を見る](simulations/carbon_credit_to_cooling_credit_transition_simulation/README_ja.md)**
+
+---
+
 ## 図解：クーリングクレジットのインセンティブ構造
 
 <p align="center">

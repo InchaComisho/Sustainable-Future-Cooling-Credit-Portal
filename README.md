@@ -10,6 +10,39 @@ A sustainable future cannot be built through ideals alone. It requires mechanism
 
 ---
 
+## Featured Simulation: Carbon Credit to Cooling Credit Transition
+
+> *If Carbon Credit had evolved into Cooling Credit, what would have changed?*
+
+This simulation compares a carbon-credit-centered climate finance pathway with a Cooling Credit pathway of equal or larger investment scale, examining effects on natural cooling-function recovery, heat-load reduction, global warming mitigation, and potential moderation of El Niño-related heat-risk amplification.
+
+| Scenario | Description |
+|---|---|
+| A | Carbon Credit baseline: finance flows to carbon accounting |
+| B | Equal-scale Cooling Credit: same finance redirected to physical cooling |
+| C | Larger-scale Cooling Credit: additional ESG, insurance, adaptation finance |
+| D | Hybrid: Carbon Credit for emissions + Cooling Credit as second layer |
+
+<p align="center">
+  <img src="simulations/carbon_credit_to_cooling_credit_transition_simulation/outputs/heat_load_reduction_pathways.png" alt="Heat Load Reduction Pathways" width="100%">
+</p>
+
+<p align="center">
+  <img src="simulations/carbon_credit_to_cooling_credit_transition_simulation/outputs/natural_cooling_recovery_index.png" alt="Natural Cooling Recovery Index" width="100%">
+</p>
+
+<p align="center">
+  <img src="simulations/carbon_credit_to_cooling_credit_transition_simulation/outputs/carbon_credit_vs_cooling_credit_funding.png" alt="Carbon Credit vs Cooling Credit Funding" width="100%">
+</p>
+
+<p align="center">
+  <img src="simulations/carbon_credit_to_cooling_credit_transition_simulation/outputs/policy_transition_causal_loop.png" alt="Policy Transition Causal Loop" width="100%">
+</p>
+
+**→ [View full simulation module](simulations/carbon_credit_to_cooling_credit_transition_simulation/README.md)**
+
+---
+
 ## Visual Overview: Cooling Credit Incentive Structure
 
 <p align="center">
