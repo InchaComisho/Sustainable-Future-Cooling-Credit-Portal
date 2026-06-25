@@ -10,6 +10,16 @@ A sustainable future cannot be built through ideals alone. It requires mechanism
 
 ---
 
+## Visual Overview: Cooling Credit Incentive Structure
+
+<p align="center">
+  <img src="images/cooling_credit_incentive_structure_en.png" alt="Cooling Credit Incentive Structure" width="100%">
+</p>
+
+This diagram explains how measurable cooling actions are evaluated, verified, converted into Cooling Credits, connected to investors, municipalities, companies, infrastructure operators, ESG funds, and insurance, and then returned to implementers as revenue, funding, maintenance contracts, partnerships, and expansion capital.
+
+---
+
 ## Why this portal exists
 
 People often search for words such as:
