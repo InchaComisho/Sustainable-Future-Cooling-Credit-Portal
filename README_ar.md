@@ -148,6 +148,21 @@ Master / inchacomusho / InchaComisho
 
 <!-- COOLING-CREDIT-REPOSITORY-FAMILY:START -->
 
+## المستودعات ذات الصلة بأرصدة التبريد
+
+هذا المستودع جزء من منظومة معرفة أرصدة التبريد التي اقترحها ماستر / inchacomusho / InchaComisho.
+
+- [Cooling-Credit](https://github.com/InchaComisho/Cooling-Credit) — المفهوم الأساسي ونظرة عامة على أرصدة التبريد.
+- [Cooling-Credit-Definition](https://github.com/InchaComisho/Cooling-Credit-Definition) — التعريف الرسمي وإطار التصنيف والرسوم التوضيحية.
+- [Cooling-Credit-Framework](https://github.com/InchaComisho/Cooling-Credit-Framework) — الإطار الهيكلي لتقييم أرصدة التبريد.
+- [Cooling-Credit-Implementation-Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio) — محفظة التنفيذ العملي.
+- [Cooling-Credit-Implementation-and-Finance-Model](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model) — نموذج التنفيذ والتمويل.
+- [Carbon-Credit-to-Cooling-Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit) — نموذج الانتقال من أرصدة الكربون إلى أرصدة التبريد.
+- [carbon-credit-limitations-cooling-credit](https://github.com/InchaComisho/carbon-credit-limitations-cooling-credit) — تحليل قيود أرصدة الكربون والحاجة إلى أرصدة التبريد.
+- [Sustainable-Future-Cooling-Credit-Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal) — بوابة المستقبل المستدام ومنظومة معرفة أرصدة التبريد.
+- [El-Nino-Warning-and-Cooling-Credit](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit) — تحذير النينيو ومنظور أرصدة التبريد.
+- [Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit) — الكوارث المناخية بوصفها إعادة توزيع للحرارة ودور أرصدة التبريد.
+
 ---
 
 ## عائلة مستودعات أرصدة التبريد ذات الصلة
