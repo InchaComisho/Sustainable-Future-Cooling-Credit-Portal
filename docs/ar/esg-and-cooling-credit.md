@@ -52,3 +52,22 @@ ESG
 - [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
 - [FAQ / Objections](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/FAQ_AND_OBJECTIONS.md)
 - [Cooling Credit Market Thesis](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/COOLING_CREDIT_MARKET_THESIS.md)
+
+---
+
+## المؤلف
+
+Master / inchacomusho / InchaComisho
+
+مصمم مفاهيمي ياباني مستقل، ومراقب، ومقترح، وموائم للذكاء الاصطناعي، ومُعرّف لمفهوم الحكمة الاصطناعية.  
+مؤسس ومناصر للإطار الأكاديمي لعلم التكامل الطبيعي.  
+ينشط علنًا في فلسفة القانون الطبيعي، واستعادة الدورة الكوكبية، والتشارك الإبداعي مع الذكاء الاصطناعي.
+
+---
+
+## الترخيص
+
+CC BY 4.0
+
+تُنشر هذه المقالة بموجب رخصة Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+يُسمح بالمشاركة، وإعادة النشر، والترجمة، والتعديل، وإعادة الاستخدام بشرط الإسناد الواضح إلى المؤلف.

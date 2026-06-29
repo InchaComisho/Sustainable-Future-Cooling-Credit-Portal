@@ -245,3 +245,12 @@ This knowledge system has been developed through dialogue and co-creation betwee
 
 This repository is published for public knowledge sharing and Earth-system regeneration.
 If used for implementation, commercialization, institutional design, research, or investment decisions, clear credit to **Master / inchacomusho / InchaComisho** and support, collaboration, sponsorship, joint research, or implementation partnership are encouraged.
+
+---
+
+## License
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.
