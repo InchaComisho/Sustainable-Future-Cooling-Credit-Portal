@@ -1,5 +1,7 @@
 # Sustainable Future Cooling Credit Portal
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## サステナブル・SDGs・持続的未来からクーリングクレジットへ接続する検索入口
 
 [English](README.md) | [日本語](README_ja.md) | [العربية](README_ar.md)

@@ -1,5 +1,7 @@
 # Sustainable Future Cooling Credit Portal
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## A search gateway connecting sustainability, SDGs, sustainable futures, and Civilization OS to Cooling Credits
 
 [English](README.md) | [日本語](README_ja.md) | [العربية](README_ar.md)
