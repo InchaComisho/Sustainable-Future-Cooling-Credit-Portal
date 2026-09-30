@@ -1115,7 +1115,6 @@ https://note.com/inchacomusho/n/ne956f3a8fdf0
 
 ### البنية السببية للاحترار العالمي وأرصدة التبريد
 
-- [مقال NOTE: أسباب الاحترار العالمي وبنيته السببية](https://note.com/inchacomusho/n/n5b2102ffc1c2)
 - [Global Warming Causal Structure](https://github.com/InchaComisho/Global-Warming-Causal-Structure)
 - [Global Warming Causal Structure - GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
 - [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
@@ -1168,7 +1167,6 @@ Master / inchacomusho / InchaComisho
 
 - [Global Warming Causal Structure](https://github.com/InchaComisho/Global-Warming-Causal-Structure)
 - [بوابة GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
-- [مقال NOTE](https://note.com/inchacomusho/n/n5b2102ffc1c2)
 
 نموذج سببي قائم على الأنظمة يشرح الاحترار العالمي كأزمة مركبة لا تتعلق بزيادة CO₂ فقط، بل تشمل أيضًا ضعف وفقدان وظائف التبريد الطبيعية للأرض، مثل الغابات، والنتح، وميكروبات التربة، ودورة الماء، والعوالق النباتية، ودوران المحيط والغلاف الجوي.
 
