@@ -1030,16 +1030,6 @@ Cooling Credit Score =
 * [日本語版 / Japanese README](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ja.md)
 * [English README](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README.md)
 
-### مقال NOTE باللغة اليابانية
-
-クーリングクレジットという温暖化対策
-https://note.com/inchacomusho/n/n0f541b313ad2
-
-### مفهوم مرتبط
-
-地球直接冷却
-https://note.com/inchacomusho/n/ne956f3a8fdf0
-
 ---
 
 - [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
@@ -1108,7 +1098,6 @@ https://note.com/inchacomusho/n/ne956f3a8fdf0
 - [تحذير النينيو وأرصدة التبريد](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit/blob/main/README_ar.md)
   يشرح لماذا ينبغي فهم النينيو في عصر الاحترار العالمي كإشارة تحذير من محيط محمّل بالحرارة، ويربط هذا التحذير بأرصدة التبريد والمحاسبة الحرارية.
 
-- [مقال ياباني على NOTE حول النينيو وأرصدة التبريد](https://note.com/inchacomusho/n/n3426a35cb2a2)
   مقال عام يربط بين النينيو، وتراكم حرارة المحيط، والمحاسبة الحرارية، وأرصدة التبريد.
 
 ## روابط ذات صلة
