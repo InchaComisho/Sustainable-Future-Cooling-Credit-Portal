@@ -1,5 +1,7 @@
 # Model Assumptions — Carbon Credit to Cooling Credit Transition Simulation
 
+[日本語版はこちら / Japanese version](MODEL_ASSUMPTIONS_ja.md)
+
 This document details the assumptions, data references, model logic, and methodological choices.
 
 ---

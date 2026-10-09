@@ -1,5 +1,7 @@
 # Carbon Credit to Cooling Credit Transition Simulation
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 **Conceptual counterfactual causal simulation — 2015 to 2035**
 
 > *If Carbon Credit had evolved into Cooling Credit, what would have changed?*
